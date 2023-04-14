@@ -1,0 +1,27 @@
+{
+  "name": "aiimagesearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^9.1.0",
+    "weaviate-client": "^2.14.5",
+    "weaviate-ts-client": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willx33/AiImageSearch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willx33/AiImageSearch/issues"
+  },
+  "homepage": "https://github.com/willx33/AiImageSearch#readme",
+  "description": ""
+}
